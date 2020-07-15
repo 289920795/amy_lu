@@ -1,2 +1,2 @@
-FROM gcr.io/kubeflow-images-public/kubernetes-sigs/application:1.0-beta
+FROM gcr.io/tf-on-k8s-dogfood/chief_sample:latest
 MAINTAINER amylu
